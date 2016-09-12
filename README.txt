@@ -10,10 +10,6 @@ The scraper has been implemented in NodeJS, justified by:
 	-Javascript is a cool dynamic language!
 	-This is the first time I try it, seemed like a great oportunity
 
-I have deployed the scraper to AWS using Elastic Beanstalk. So you can see it in action here:
-http://default-environment.ufusuwm8tr.eu-west-1.elasticbeanstalk.com/api/events
-
-
 
 INCLUDED LIBRARIES (from NPM: node package manager)
     -Express: Minimalistic framework that takes care of the http calls and routes table
